@@ -8,8 +8,8 @@
 
 
 # Hardware Setup
-![image](https://raw.githubusercontent.com/ouluz/Labview_fft/doc/p1.png) 
-![image](https://raw.githubusercontent.com/ouluz/Labview_fft/doc/p2.png) 
+![image](https://raw.githubusercontent.com/ouluz/Labview_fft/master/doc/p1.jpg) 
+![image](https://raw.githubusercontent.com/ouluz/Labview_fft/master/doc/p2.jpg) 
 
 # Connected Hardware
 
